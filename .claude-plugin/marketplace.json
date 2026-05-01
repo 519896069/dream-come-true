@@ -10,7 +10,7 @@
       "name": "dream-come-true",
       "description": "If you have a dream, use this plugin to make it come true.",
       "version": "1.0.2",
-      "source": "./",
+      "source": "https://github.com/519896069/dream-come-true.git",
       "author": {
         "name": "zepei.feng",
         "email": "feng@zepei.com"
