@@ -4,9 +4,22 @@ Claude Code 插件 —— 从 Idea 到代码，一条命令搞定。
 
 ## 安装
 
+在 Claude Code 中执行：
+
 ```bash
-cd ~/.claude/plugins.local
-git clone https://github.com/519896069/dream-come-true.git
+/plugin install dream-come-true
+```
+
+或手动添加到项目 `.claude/settings.json`：
+
+```json
+{
+  "plugins": [
+    {
+      "source": "https://github.com/519896069/dream-come-true.git"
+    }
+  ]
+}
 ```
 
 ## 使用
