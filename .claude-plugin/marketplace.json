@@ -1,0 +1,20 @@
+{
+  "name": "zepei.feng",
+  "description": "Development marketplace for Dream-come-true core skills library",
+  "owner": {
+    "name": "zepei.feng",
+    "email": "feng@zepei.com"
+  },
+  "plugins": [
+    {
+      "name": "dream-come-true",
+      "description": "If you have a dream, use this plugin to make it come true.",
+      "version": "1.0.2",
+      "source": "./",
+      "author": {
+        "name": "zepei.feng",
+        "email": "feng@zepei.com"
+      }
+    }
+  ]
+}

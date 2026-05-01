@@ -1,0 +1,16 @@
+{
+    "name": "dream-come-true",
+    "description": "If you have a dream, use this plugin to make it come true.",
+    "version": "1.0.3",
+    "author": {
+        "name": "zepei.feng",
+        "email": "feng@zepei.com"
+    },
+    "homepage": "D:/project/xieshouxingdong.cn/xiaopei/",
+    "repository": "D:/project/xieshouxingdong.cn/xiaopei/",
+    "license": "MIT",
+    "keywords": [
+        "实现需求",
+        "功能改动"
+    ]
+}
