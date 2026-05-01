@@ -7,7 +7,8 @@ Claude Code 插件 —— 从 Idea 到代码，一条命令搞定。
 在 Claude Code 中执行：
 
 ```bash
-claude plugin marketplace add dream-come-true
+claude plugin marketplace add https://github.com/519896069/dream-come-true.git
+claude plugin install dream-come-true
 ```
 
 或手动添加到项目 `.claude/settings.json`：
